@@ -1,0 +1,5 @@
+Regular expressions (Regex) are a way of describing patterns in a string of data, which allows you to search for data strings, like email addresses or passwords, that match that pattern.
+
+/\d+$/g.test()
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
